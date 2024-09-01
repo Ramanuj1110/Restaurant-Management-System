@@ -1,4 +1,4 @@
-Restaurant Management System (RMS)
+# Restaurant Management System (RMS)
 Project Overview
 
 The Restaurant Management System (RMS) is a comprehensive web-based solution tailored to streamline the operations of a restaurant. This system facilitates seamless online food ordering for customers while providing restaurant administrators with robust tools for menu management, customer handling, and feedback collection. The goal of RMS is to enhance the dining experience for customers and optimize the restaurant’s internal processes, ultimately driving business growth.
